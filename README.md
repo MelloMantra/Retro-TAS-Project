@@ -1,4 +1,4 @@
-# RetroTAS Project
+# Retro-TAS Project
 some TASes for retro games using FCEUX
 
 *This is a solo project by Mello Mantra. All TASes are original.*
